@@ -10,3 +10,60 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.d-flex {
+    align-items: center;
+    background: black;
+    max-width: auto;
+    height: 10rem;
+    font-size: 4rem;
+    
+    
+}
+
+.seis {
+    color: white;
+    margin-right: 1rem;
+    background-color: rgb(46, 45, 45);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.cinco{
+    color: white;
+    margin-right: 1rem;
+    background-color: rgb(46, 45, 45);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.cuatro {
+    color: white;
+    margin-right: 1rem;
+    background-color: rgb(46, 45, 45);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.tres {
+    color: white;
+    margin-right: 1rem;
+    background-color: rgb(46, 45, 45);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.dos {
+    color: white;
+    margin-right: 1rem;
+    background-color: rgb(46, 45, 45);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.uno {
+    color: white;
+    background-color: rgb(46, 45, 45);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    
+}
