@@ -9,7 +9,7 @@ const Counter = (prop) => {
 
 	return (
 		<div className="d-flex justify-content-center">
-			<i class="fa-solid fa-clock-three"></i>
+			<i class="fas fa-clock "></i>
 			<div className="seis">{secStr[secStr.length - 6] ?? "0"}</div>
 			<div className="cinco">{secStr[secStr.length - 5] ?? "0"}</div>
 			<div className="cuatro">{secStr[secStr.length - 4] ?? "0"}</div>
